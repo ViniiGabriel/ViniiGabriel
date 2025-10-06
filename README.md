@@ -2,7 +2,7 @@
 
 <p align="center">
   Desenvolvedor apaixonado por tecnologia, design limpo e soluções inteligentes. <br/>
-  Estudante de Engenharia da Computação | Brasil
+  Estudante de Engenharia da Computação | SC - Brasil
 </p>
 
 ---
