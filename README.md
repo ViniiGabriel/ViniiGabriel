@@ -30,7 +30,7 @@ Gosto de estudar diferentes tecnologias e aplicar o que aprendo em projetos prá
 Interesses:
 - Desenvolvimento Front-end com **React + TailwindCSS**
 - Aplicações Desktop com **C++ e Qt**
-- Banco de dados leves com **SQLite**
+- Banco de dados com **SQLite**
 - Estruturas de Dados e Lógica de Programação
 
 ---
